@@ -3,7 +3,7 @@
 This is the hub repository for the talk presented during 39C3.
 I'll upload here the slides and the various links to the related projects.
 
-## Links to projects evoqued during the talk
+## Links to projects mentioned during the talk
 
 - [Qualcomm GPU patches for QEMU](https://github.com/quic/qemu/tree/rmalmain/qcom_canoe_graphics): QEMU patches to get Qualcomm GPU support
 - [LibAFL QEMU](https://github.com/AFLplusplus/LibAFL/tree/main/crates/libafl_qemu): LibAFL QEMU main crate
